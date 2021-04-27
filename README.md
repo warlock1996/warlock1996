@@ -4,4 +4,6 @@
 
 🌱 I’m currently learning ReactJs, TypeScript, GraphQL.
 
-💬 Ask me anything.
+💬 ask me anything.
+
+🇮🇳

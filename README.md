@@ -5,5 +5,3 @@
 🌱 I’m currently learning ReactJs, TypeScript, GraphQL.
 
 💬 ask me anything.
-
-🇮🇳

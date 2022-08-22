@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Hi, I'm Arslan and i'm a Professinal Software Developer.
+## Hi, I'm Arslan and i'm a FullStack JavaScript Developer.
 
 I started my career back in 2019, since then i wore many hats and worked in different domains from front-end to back-end and database design.
 

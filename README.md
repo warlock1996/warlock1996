@@ -10,24 +10,23 @@ I am a team player, cooperative, and a fast learner. I write clean code which is
 
 ### I like to work with the following tech stack:
 
-### ✅ Front-End Development:
+### Front-End Development:
 
-Vue.js ( Nuxt.js + Quasar)
+Vue.js (Nuxt.js/Quasar)
 React.js + React Bootstrap
 Vuetify/Bootstrap
 TailwindCss
 Sass/Less
 
-### ✅ Back-End Development:
+### :heavy_check_mark: Back-End Development:
 
 PHP (Laravel),
 JavaScript (Node.js + Express.js)
 
-### ✅ Databases:
+### :heavy_check_mark: Databases:
 
-MySQL/PostgresSQL/Microsoft SQL Server
-MongoDB
+MySQL/PostgresSQL/Microsoft SQL Server, MongoDB
 
-### ✅ Version Control:
+### :heavy_check_mark: Version Control:
 
 Github/Gitlab/BitBucket
